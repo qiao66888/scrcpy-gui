@@ -27,7 +27,7 @@ export default {
 			label: '镜像录屏',
 			tip: '开启后,将录制镜像;关闭后,将生成已录制的视频文件到指定路径',
 			filepath: '录屏文件路径',
-			tooltip: '路径包括视频名,视频格式为.mkv',
+			tooltip: '路径包括视频名,视频格式为.mkv111111',
 			mirror: '录屏时打开镜像'
 		},
 		bitRate: {
