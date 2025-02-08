@@ -35,6 +35,7 @@ const open = ({ sender }, options) => {
 	if (screen) {
 		args.push('--turn-screen-off')
 	}
+	args.push('-K -M')
 	if (fixed) {
 		args.push('--always-on-top')
 	}
